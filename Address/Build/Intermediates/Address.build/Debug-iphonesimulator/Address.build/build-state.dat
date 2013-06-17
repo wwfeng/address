@@ -1,0 +1,363 @@
+TAddress
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Info.plist Address/Address-Info.plist
+cProcessPCH /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.pth Address/Address-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.o /Users/jiaozi/github/address/Address/Address/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.o /Users/jiaozi/github/address/Address/Address/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.o /Users/jiaozi/github/address/Address/Address/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address normal i386
+cGenerateDSYMFile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYM /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address
+cCopyStringsFile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/InfoPlist.strings Address/en.lproj/InfoPlist.strings
+cCpResource Address/Default.png Build/Products/Debug-iphonesimulator/Address.app/Default.png
+cCpResource Address/Default@2x.png Build/Products/Debug-iphonesimulator/Address.app/Default@2x.png
+cCpResource Address/Default-568h@2x.png Build/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png
+cCompileXIB /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xib
+cCompileXIB /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib
+cTouch /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000510B747400000000000C1030
+t1359705204
+s790576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000510B74750000000000193640
+t1359705205
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510B74770000000000228FE0
+t1359705207
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510B747B00000000003DDFA0
+t1359705211
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000510B747A00000000000015F7
+t1359705210
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510B74860000000000000E8D
+t1359705222
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510B748A0000000000AB6230
+t1359705226
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510B74B50000000000001B73
+t1359705269
+s7027
+
+N/Users/jiaozi/github/address/Address/Address/Address-Prefix.pch
+c0000000051BF1756000000000000013D
+t1371477846
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jiaozi/github/address/Address/Address/AppDelegate.h
+c0000000051BF17560000000000000160
+t1371477846
+s352
+
+N/Users/jiaozi/github/address/Address/Address/AppDelegate.m
+c0000000051BF17560000000000000A5B
+t1371477846
+s2651
+
+N/Users/jiaozi/github/address/Address/Address/Default-568h@2x.png
+c000000005094C3F800000000000048A2
+t1351926776
+s18594
+
+N/Users/jiaozi/github/address/Address/Address/Default.png
+c000000005094C3F8000000000000198C
+t1351926776
+s6540
+
+N/Users/jiaozi/github/address/Address/Address/Default@2x.png
+c000000005094C3F80000000000003EEB
+t1351926776
+s16107
+
+N/Users/jiaozi/github/address/Address/Address/ViewController.h
+c0000000051BF18C50000000000000143
+t1371478213
+s323
+
+N/Users/jiaozi/github/address/Address/Address/ViewController.m
+c0000000051BF1A0300000000000009D2
+t1371478531
+s2514
+
+N/Users/jiaozi/github/address/Address/Address/en.lproj/InfoPlist.strings
+c0000000051BF1756000000000000002D
+t1371477846
+s45
+
+N/Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib
+c0000000051BF17560000000000001489
+t1371477846
+s5257
+
+N/Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xib
+c0000000051BF17560000000000001782
+t1371477846
+s6018
+
+N/Users/jiaozi/github/address/Address/Address/main.m
+c0000000051BF17560000000000000144
+t1371477846
+s324
+
+N/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/Address.LinkFileList
+c0000000051BF192700000000000001A3
+t1371478311
+s419
+
+N/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.o
+t1371478313
+s90308
+
+N/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.o
+t1371478512
+s81236
+
+N/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.o
+t1371478313
+s3284
+
+N/Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-aaktkkibcyjsrzfxrihmxmvncndo/Address-Prefix.pch.pth
+t2
+s0
+
+N/Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.pth
+t1371478313
+s4665808
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app
+t1371478512
+s306
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYM
+t1371478512
+s102
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address
+t1371478512
+s33376
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png
+t1371478317
+s18594
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Default.png
+t1371478317
+s6540
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Default@2x.png
+t1371478317
+s16107
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Info.plist
+t1371478512
+s879
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/PkgInfo
+t1371478512
+s8
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/InfoPlist.strings
+t1371478317
+s42
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/ViewController_iPad.nib
+t1371478321
+s822
+
+N/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/ViewController_iPhone.nib
+t1371478321
+s862
+
+NAddress/Address-Info.plist
+c0000000051BF19C30000000000000539
+t1371478467
+s1337
+
+CBuild AST from /Users/jiaozi/github/address/Address/Address/AppDelegate.m
+r0
+
+CBuild AST from /Users/jiaozi/github/address/Address/Address/ViewController.m
+r0
+
+CBuild AST from /Users/jiaozi/github/address/Address/Address/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5dfcd986516fb741^efcada86516fb741^---0#1#0#--18"Check dependencies36"07E7F82C-C0B9-42A8-BABB-8A7D80693BD6-
+
+CCompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.o /Users/jiaozi/github/address/Address/Address/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393171113.307810
+e393171113.761686
+r1
+xCompileC
+xBuild/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.o
+x/Users/jiaozi/github/address/Address/Address/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/jiaozi/github/address/Address/Address/AppDelegate.m7bf84ea9506fb741^22fdc2a9506fb741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/jiaozi/github/address/Address/Address/AppDelegate.m0000000000000000^3536"CompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.o Address/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jiaozi/github/address/Address    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-generated-files.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-own-target-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-all-target-headers.hmap -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-project-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources/i386 -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources -F/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator -include /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch -MMD -MT dependencies -MF /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.dia -c /Users/jiaozi/github/address/Address/Address/AppDelegate.m -o /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/AppDelegate.o36"1911A917-7681-4DD1-8A58-1B322E2AEA03-
+
+CCompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.o /Users/jiaozi/github/address/Address/Address/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393171334.874046
+e393171334.971865
+r1
+xCompileC
+xBuild/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.o
+x/Users/jiaozi/github/address/Address/Address/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/jiaozi/github/address/Address/Address/ViewController.meee8df86516fb741^5dbf0c87516fb741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/jiaozi/github/address/Address/Address/ViewController.m0000000000000000^3554"CompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.o Address/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jiaozi/github/address/Address    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-generated-files.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-own-target-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-all-target-headers.hmap -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-project-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources/i386 -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources -F/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator -include /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch -MMD -MT dependencies -MF /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.dia -c /Users/jiaozi/github/address/Address/Address/ViewController.m -o /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/ViewController.o36"D57016CE-C7AC-4A3A-A678-91678D943511-
+
+CCompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.o /Users/jiaozi/github/address/Address/Address/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393171113.307207
+e393171113.744123
+r1
+xCompileC
+xBuild/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.o
+x/Users/jiaozi/github/address/Address/Address/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/jiaozi/github/address/Address/Address/main.me4d84ea9506fb741^207ebea9506fb741^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/jiaozi/github/address/Address/Address/main.m0000000000000000^3494"CompileC Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.o Address/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jiaozi/github/address/Address    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-generated-files.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-own-target-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-all-target-headers.hmap -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-project-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources/i386 -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources -F/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator -include /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch -MMD -MT dependencies -MF /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.dia -c /Users/jiaozi/github/address/Address/Address/main.m -o /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/main.o36"CC94EE14-729C-483E-A114-94237CEBEB73-
+
+CCompileXIB /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib
+s393171117.615982
+e393171121.247559
+r1
+xCompileXIB
+x/Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib23db9dad506fb741^58703fb1506fb741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib0000000000000000^932"CompileXIB Address/en.lproj/ViewController_iPad.xib    cd /Users/jiaozi/github/address/Address    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/ViewController_iPad.nib /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPad.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"8F829EA3-1912-48AE-9748-AD7EE787A9F3-
+
+CCompileXIB /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xib
+s393171117.506571
+e393171121.236672
+r1
+xCompileXIB
+x/Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xibdac881ad506fb741^d3a43cb1506fb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xib0000000000000000^938"CompileXIB Address/en.lproj/ViewController_iPhone.xib    cd /Users/jiaozi/github/address/Address    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/ViewController_iPhone.nib /Users/jiaozi/github/address/Address/Address/en.lproj/ViewController_iPhone.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"1521AA67-49C1-41E1-9EE6-E5051F2E9DAD-
+
+CCopyStringsFile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/InfoPlist.strings Address/en.lproj/InfoPlist.strings
+s393171117.492541
+e393171117.610800
+r1
+xCopyStringsFile
+x/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj/InfoPlist.strings
+xAddress/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Address/en.lproj/InfoPlist.strings09327ead506fb741^b8929dad506fb741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/jiaozi/github/address/Address/Address/en.lproj/InfoPlist.strings0000000000000000^589"CopyStringsFile Build/Products/Debug-iphonesimulator/Address.app/en.lproj/InfoPlist.strings Address/en.lproj/InfoPlist.strings    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/en.lproj -- Address/en.lproj/InfoPlist.strings36"65DD06CD-41E1-432F-9D9B-942BBD15B31C-
+
+CCpResource Address/Default-568h@2x.png Build/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png
+s393171117.502055
+e393171117.505220
+r1
+xCpResource
+xAddress/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png569a80ad506fb741^585781ad506fb741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png000000000080d041^616"CpResource "Address/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/Address.app/Default-568h@2x.png"    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jiaozi/github/address/Address/Address/Default-568h@2x.png" /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app36"EDBC029A-43DE-4170-8D59-13291D53FD1B-
+
+CCpResource Address/Default.png Build/Products/Debug-iphonesimulator/Address.app/Default.png
+s393171117.493150
+e393171117.496406
+r1
+xCpResource
+xAddress/Default.png
+xBuild/Products/Debug-iphonesimulator/Address.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/Address.app/Default.png09517ead506fb741^40157fad506fb741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Default.png000000000080d041^586"CpResource Address/Default.png Build/Products/Debug-iphonesimulator/Address.app/Default.png    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jiaozi/github/address/Address/Address/Default.png /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app36"5E103A84-DFB5-421B-8C91-B52A721A65FB-
+
+CCpResource Address/Default@2x.png Build/Products/Debug-iphonesimulator/Address.app/Default@2x.png
+s393171117.497746
+e393171117.500710
+r1
+xCpResource
+xAddress/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/Address.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/Address.app/Default@2x.pngbf7f7fad506fb741^942f80ad506fb741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Default@2x.png000000000080d041^601"CpResource "Address/Default@2x.png" "Build/Products/Debug-iphonesimulator/Address.app/Default@2x.png"    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jiaozi/github/address/Address/Address/Default@2x.png" /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app36"24D98A14-78C7-4404-84AE-9B5354999B84-
+
+CGenerateDSYMFile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYM /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address
+s393171335.131278
+e393171335.158771
+r1
+xGenerateDSYMFile
+x/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYM
+x/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generate /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYMa7b12187516fb741^d2a82887516fb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYM/0000000000000000^655"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Address.app.dSYM Build/Products/Debug-iphonesimulator/Address.app/Address    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address -o /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app.dSYM36"AAB8AE9F-D587-4984-A783-D9DBAC521D43-
+
+CLd /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address normal i386
+s393171334.999845
+e393171335.124434
+r1
+xLd
+x/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Addressbfd60587516fb741^2dee1f87516fb741^---0#0#0#--1224"Ld Build/Products/Debug-iphonesimulator/Address.app/Address normal i386    cd /Users/jiaozi/github/address/Address    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator -F/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator -filelist /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Objects-normal/i386/Address.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 -framework AddressBook -framework AddressBookUI -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Address36"A09C9255-3F53-4278-ADF0-362375A569FE-
+
+CProcessInfoPlistFile /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Info.plist Address/Address-Info.plist
+s393171312.222543
+e393171312.227125
+r1
+xProcessInfoPlistFile
+x/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Info.plist
+xAddress/Address-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process Address/Address-Info.plist020e3970516fb741^d40e3b70516fb741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/jiaozi/github/address/Address/Address/Address-Info.plist0000000000000000^671"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Address.app/Info.plist Address/Address-Info.plist    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Address/Address-Info.plist -genpkginfo /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app/Info.plist36"F478D7AB-6977-4AF9-A981-F79CD30554CE-
+
+CProcessPCH /Users/jiaozi/Library/Developer/Xcode/DerivedData/Address-fqxjwasmepakvibpyuvkqlgzmsik/Index/PrecompiledHeaders/Address-Prefix-duhvggvjcrnsgggnvbwyrrqgizzt_ast/Address-Prefix.pch.pth Address/Address-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jiaozi/Library/Developer/Xcode/DerivedData/Address-fqxjwasmepakvibpyuvkqlgzmsik/Index/PrecompiledHeaders/Address-Prefix-guhruewbelvrzbexkzymjzkdiqdi_ast/Address-Prefix.pch.pth Address/Address-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-aaktkkibcyjsrzfxrihmxmvncndo/Address-Prefix.pch.pth Address/Address-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.pth Address/Address-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393171111.414336
+e393171113.300749
+r1
+xProcessPCH
+x/Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.pth
+xAddress/Address-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Address/Address-Prefix.pchbf466aa7506fb741^5dfd4ca9506fb741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/jiaozi/github/address/Address/Address/Address-Prefix.pch0000000000000000^3411"ProcessPCH Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.pth Address/Address-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jiaozi/github/address/Address    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-generated-files.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-own-target-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-all-target-headers.hmap -iquote /Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/Address-project-headers.hmap -I/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources/i386 -I/Users/jiaozi/github/address/Address/Build/Intermediates/Address.build/Debug-iphonesimulator/Address.build/DerivedSources -F/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.dia -c /Users/jiaozi/github/address/Address/Address/Address-Prefix.pch -o /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.pth -MMD -MT dependencies -MF /Users/jiaozi/github/address/Address/Build/Intermediates/PrecompiledHeaders/Address-Prefix-frufyupbcdjggibuxnlvxdkxlqfv/Address-Prefix.pch.d36"3179D455-A320-437E-B4C8-B693767ED443-
+
+CTouch /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app
+s393171335.177361
+e393171335.185848
+r1
+xTouch
+x/Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Touch /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app9e792d87516fb741^85942f87516fb741^---0#0#0#--402"Touch Build/Products/Debug-iphonesimulator/Address.app    cd /Users/jiaozi/github/address/Address    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jiaozi/github/address/Address/Build/Products/Debug-iphonesimulator/Address.app36"98AA50EB-2025-46FA-8124-08CF96216F28-
+
